@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = project
+build_property.RootNamespace = project
+build_property.ProjectDir = /Users/anushka/Projects/project/project/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/anushka/Projects/project/project
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/anushka/Projects/project/project/Views/certificates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2VydGlmaWNhdGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/certificates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2VydGlmaWNhdGVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/certificates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2VydGlmaWNhdGVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/certificates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2VydGlmaWNhdGVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/certificates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY2VydGlmaWNhdGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/educations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZWR1Y2F0aW9ucy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/educations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZWR1Y2F0aW9ucy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/educations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZWR1Y2F0aW9ucy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/educations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZWR1Y2F0aW9ucy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/educations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZWR1Y2F0aW9ucy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/experiences/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZXhwZXJpZW5jZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/experiences/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZXhwZXJpZW5jZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/experiences/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZXhwZXJpZW5jZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/experiences/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZXhwZXJpZW5jZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/experiences/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZXhwZXJpZW5jZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/Home/privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9wcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/infos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5mb3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/infos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5mb3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/infos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5mb3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/infos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5mb3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/infos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvaW5mb3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvamVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/projects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvamVjdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/projects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvamVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/projects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvamVjdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvamVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/skills/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mvc2tpbGxzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/skills/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mvc2tpbGxzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/skills/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mvc2tpbGxzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/skills/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mvc2tpbGxzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/skills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mvc2tpbGxzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anushka/Projects/project/project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f0jb2meirf

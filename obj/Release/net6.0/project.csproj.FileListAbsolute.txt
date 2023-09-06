@@ -1,0 +1,8 @@
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.csproj.AssemblyReference.cache
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.AssemblyInfoInputs.cache
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.AssemblyInfo.cs
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.csproj.CoreCompileInputs.cache
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.MvcApplicationPartsAssemblyInfo.cache
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.RazorAssemblyInfo.cache
+/Users/anushka/Projects/project/project/obj/Release/net6.0/project.RazorAssemblyInfo.cs

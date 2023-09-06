@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{123CE8D9-6B42-45A2-86BC-EB2CC35F2241}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIControllers/infosController.cs">
+    <Files>
+      <File FileName="APIControllers/infosController.cs" Line="49" Column="40" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="APIControllers/certificatesController.cs" />
+      <File FileName="Helpers/APIkeyAuth.cs" Line="62" Column="17" />
+      <File FileName="Models/infos.cs" Line="1" Column="1" />
+      <File FileName="Models/educations.cs" Line="1" Column="1" />
+      <File FileName="Models/certificates.cs" Line="1" Column="1" />
+      <File FileName="APIControllers/projectsController.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="50" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project" expanded="True">
+            <Node name="project">
+              <Node name="APIControllers" expanded="True">
+                <Node name="infosController.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

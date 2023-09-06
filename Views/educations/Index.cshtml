@@ -1,0 +1,65 @@
+@model IEnumerable<project.Models.educations>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>EDUCATION</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.college_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.start_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.end_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.board)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.degree)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.user_id)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.college_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.start_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.end_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.board)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.degree)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.user_id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.edu_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.edu_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.edu_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

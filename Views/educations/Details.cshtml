@@ -1,0 +1,54 @@
+@model project.Models.educations
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>educations</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.college_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.college_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.start_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.start_date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.end_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.end_date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.board)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.board)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.degree)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.degree)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.user_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.user_id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.edu_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

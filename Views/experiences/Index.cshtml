@@ -1,0 +1,65 @@
+@model IEnumerable<project.Models.experiences>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>PROFESSIONAL EXPERIENCE</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.institution_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.started_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ended_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tech_used)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.user_id)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.institution_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.started_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ended_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tech_used)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.user_id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.exp_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.exp_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.exp_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
